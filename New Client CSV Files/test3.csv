@@ -1,0 +1,4 @@
+﻿name,path,displayName,alias,members_commaDelimited
+test Testing's & Trial's <>,doesn’t matter here,Test3 O365 Group,test 3,"testName@TESTDOMAIN.com,admin@TESTDOMAIN.com"
+test4,doesn’t matter here,Test4 O365 Group,test 4,"testName@TESTDOMAIN.com,admin@TESTDOMAIN.com"
+test5,doesn’t matter here,Test5 O365 Group,test 5,"testName@TESTDOMAIN.com,admin@TESTDOMAIN.com"
