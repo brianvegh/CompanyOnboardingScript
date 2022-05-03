@@ -1,4 +1,7 @@
-﻿PowerShell script suite that automates company new user and new client onboarding across Microsoft Active Directory, Sharepoint, Office365 and Teams as well as 3CX VoIP Phone Service and DUO Multi-Factor Authentication Platform. This code and supporting and associated files have been redacted to eliminate disbursement of client-specific information. As such, coupled with the fact that these tools were designed to work within a specific environment, these publicly available scripts will require adaptation to be utilized in a Windows Active Directory environment
+### PowerShell script suite that automates company new user and new client onboarding across Microsoft Active Directory, Sharepoint, Office365 and Teams as well as 3CX VoIP Phone Service and DUO Multi-Factor Authentication Platform. 
+
+
+###### This code and supporting and associated files have been redacted to eliminate disbursement of client-specific information. As such, coupled with the fact that these tools were designed to work within a specific environment, these publicly available scripts will require adaptation to be utilized in a Windows Active Directory environment.
 -----
 - I have two small features to implement for the New User script 
   - add new user to CodeTwo group automatically based on domain
